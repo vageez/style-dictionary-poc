@@ -1,0 +1,7 @@
+{
+  "spacing": {
+    "small": { "$type": "dimensions", "$value": "8px" },
+    "medium": { "$type": "dimensions", "$value": "16px" },
+    "large": { "$type": "dimensions", "$value": "24px" }
+  }
+}

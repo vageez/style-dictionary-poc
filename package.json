@@ -1,0 +1,18 @@
+{
+  "name": "style-dictionary-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "buildconfig": "npx style-dictionary build",
+    "build": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "style-dictionary": "^3.9.2",
+    "prettier": "^3.2.5",
+    "style-dictionary-utils": "^2.2.1"
+  }
+}

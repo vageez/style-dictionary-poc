@@ -1,0 +1,20 @@
+/**
+ * Do not edit directly
+ * Generated on Fri, 05 Apr 2024 18:40:04 GMT
+ */
+
+:root {
+  --color-violet: #7c3ead;
+  --color-rose: #e11d48;
+  --color-primary: #7c3ead;
+  --color-secondary: #e11d48;
+  --spacing-small: 8px;
+  --spacing-medium: 16px;
+  --spacing-large: 24px;
+  --font-size-nav1-small: 12px;
+  --font-size-nav1-medium: 14px;
+  --font-size-nav1-large: 16px;
+  --font-size-title1-small: 14px;
+  --font-size-title1-medium: 16px;
+  --font-size-title1-large: 18px;
+}

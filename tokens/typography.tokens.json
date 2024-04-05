@@ -1,0 +1,32 @@
+{
+  "fontSize": {
+    "nav1": {
+      "small": {
+        "$type": "dimension",
+				"$value": "12px"
+      },
+			"medium": {
+        "$type": "dimension",
+				"$value": "14px"
+      },
+			"large": {
+        "$type": "dimension",
+				"$value": "16px"
+      }
+    },
+		"title1": {
+      "small": {
+        "$type": "dimension",
+				"$value": "14px"
+      },
+			"medium": {
+        "$type": "dimension",
+				"$value": "16px"
+      },
+			"large": {
+        "$type": "dimension",
+				"$value": "18px"
+      }
+    }
+  }
+}
