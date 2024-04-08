@@ -1,8 +1,6 @@
 {
   "test": {
-    "small": { "$type": "strToNumber", "$value": "12" },
-    "med": { "$type": "strToNumber", "$value": "14" },
-    "large" : { "$value": "{test.small}" },
-    "xlarge" : { "$value": "{test.med}" }
+    "small": { "$type": "sToN", "$value": "12" },
+    "med": { "$type": "sToN", "$value": "14" }
   }
 }

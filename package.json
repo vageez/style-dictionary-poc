@@ -11,8 +11,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "style-dictionary": "^3.9.2",
     "prettier": "^3.2.5",
+    "style-dictionary": "^3.9.2",
     "style-dictionary-utils": "^2.2.1"
   }
 }

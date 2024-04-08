@@ -1,24 +1,22 @@
 /**
  * Do not edit directly
- * Generated on Mon, 08 Apr 2024 12:15:11 GMT
+ * Generated on Mon, 08 Apr 2024 16:52:13 GMT
  */
 
 :root {
-  --color-violet: #7c3ead;
-  --color-rose: #e11d48;
-  --color-primary: #7c3ead;
-  --color-secondary: #e11d48;
-  --spacing-small: 8px;
-  --spacing-medium: 16px;
-  --spacing-large: 24px;
-  --test-small: 12;
-  --test-med: 14;
-  --test-large: 12;
-  --test-xlarge: 14;
-  --font-size-nav1-small: 12px;
-  --font-size-nav1-medium: 14px;
-  --font-size-nav1-large: 16px;
-  --font-size-title1-small: 14px;
-  --font-size-title1-medium: 16px;
   --font-size-title1-large: 18px;
+  --font-size-title1-medium: 16px;
+  --font-size-title1-small: 14px;
+  --font-size-nav1-large: 16px;
+  --font-size-nav1-medium: 14px;
+  --font-size-nav1-small: 12px;
+  --test-med: 14;
+  --test-small: 12;
+  --spacing-large: 24px;
+  --spacing-medium: 16px;
+  --spacing-small: 8px;
+  --color-rose: #e11d48;
+  --color-violet: #7c3ead;
+  --color-secondary: var(--color-rose);
+  --color-primary: var(--color-violet);
 }
