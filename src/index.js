@@ -16,5 +16,16 @@ const config = {
   },
 };
 
+StyleDictionary.registerTransform({
+  name: "transform/strToNumber",
+  type: `value`,
+  matcher: (token) => token?.$type === "strToNumber",
+  transitive: true,
+  transformer:
+    () =>
+    ({ $value }) =>
+      Number($value),
+});
+
 const sd = StyleDictionary.extend(config);
 sd.buildAllPlatforms();
